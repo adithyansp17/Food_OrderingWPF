@@ -1,0 +1,50 @@
+﻿<Window x:Class="FoodTOrderWPF.SeondWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FoodTOrderWPF"
+        mc:Ignorable="d"
+        Title="Restaurant List" Height="450" Width="800">
+    <Grid Margin="50">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <TextBlock Grid.Row="0" Text="Restauraunt List" FontSize="24" FontWeight="Bold" HorizontalAlignment="Center"/>
+            <StackPanel Grid.Row="1">
+            <ListBox SelectionChanged="ListBox_SelectionChanged" Name="lstUsers"
+                     SelectionMode="Single" >
+                <ListBoxItem   Height="50">
+                    <ListBoxItem.Content>
+                        <StackPanel Orientation="Horizontal">
+                            <Label Content="Restaurant1" Width="200"></Label>
+                            <Button  Content="View More" Height="40" Width="100" Click="Button_Click"></Button>
+                        </StackPanel>
+                    </ListBoxItem.Content>
+
+                </ListBoxItem>
+                <ListBoxItem   Height="50">
+                    <ListBoxItem.Content>
+                        <StackPanel Orientation="Horizontal">
+                            <Label Content="Restaurant2" Width="200"></Label>
+                            <Button  Content="View More" Height="40" Width="100"></Button>
+                        </StackPanel>
+                    </ListBoxItem.Content>
+
+                </ListBoxItem>
+                <ListBoxItem   Height="50">
+                    <ListBoxItem.Content>
+                        <StackPanel Orientation="Horizontal">
+                            <Label Content="Restaurant3" Width="200"></Label>
+                            <Button  Content="View More" Height="40" Width="100"></Button>
+                        </StackPanel>
+                    </ListBoxItem.Content>
+
+                </ListBoxItem>
+
+            </ListBox>
+        </StackPanel>
+        
+    </Grid>
+</Window>

@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Adithyan SP\\source\\repos\\FoodTOrderWPF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7361C1A3-77A4-4C50-A58B-25F6BC2EAAE6}|FoodTOrderWPF\\FoodTOrderWPF.csproj|c:\\users\\adithyan sp\\source\\repos\\foodtorderwpf\\foodtorderwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7361C1A3-77A4-4C50-A58B-25F6BC2EAAE6}|FoodTOrderWPF\\FoodTOrderWPF.csproj|solutionrelative:foodtorderwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7361C1A3-77A4-4C50-A58B-25F6BC2EAAE6}|FoodTOrderWPF\\FoodTOrderWPF.csproj|c:\\users\\adithyan sp\\source\\repos\\foodtorderwpf\\foodtorderwpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7361C1A3-77A4-4C50-A58B-25F6BC2EAAE6}|FoodTOrderWPF\\FoodTOrderWPF.csproj|solutionrelative:foodtorderwpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7361C1A3-77A4-4C50-A58B-25F6BC2EAAE6}|FoodTOrderWPF\\FoodTOrderWPF.csproj|c:\\users\\adithyan sp\\source\\repos\\foodtorderwpf\\foodtorderwpf\\seondwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7361C1A3-77A4-4C50-A58B-25F6BC2EAAE6}|FoodTOrderWPF\\FoodTOrderWPF.csproj|solutionrelative:foodtorderwpf\\seondwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7361C1A3-77A4-4C50-A58B-25F6BC2EAAE6}|FoodTOrderWPF\\FoodTOrderWPF.csproj|c:\\users\\adithyan sp\\source\\repos\\foodtorderwpf\\foodtorderwpf\\seondwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7361C1A3-77A4-4C50-A58B-25F6BC2EAAE6}|FoodTOrderWPF\\FoodTOrderWPF.csproj|solutionrelative:foodtorderwpf\\seondwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7361C1A3-77A4-4C50-A58B-25F6BC2EAAE6}|FoodTOrderWPF\\FoodTOrderWPF.csproj|c:\\users\\adithyan sp\\source\\repos\\foodtorderwpf\\foodtorderwpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7361C1A3-77A4-4C50-A58B-25F6BC2EAAE6}|FoodTOrderWPF\\FoodTOrderWPF.csproj|solutionrelative:foodtorderwpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SeondWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Adithyan SP\\source\\repos\\FoodTOrderWPF\\FoodTOrderWPF\\SeondWindow.xaml.cs",
+              "RelativeDocumentMoniker": "FoodTOrderWPF\\SeondWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Adithyan SP\\source\\repos\\FoodTOrderWPF\\FoodTOrderWPF\\SeondWindow.xaml.cs",
+              "RelativeToolTip": "FoodTOrderWPF\\SeondWindow.xaml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T09:45:37.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SeondWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Adithyan SP\\source\\repos\\FoodTOrderWPF\\FoodTOrderWPF\\SeondWindow.xaml",
+              "RelativeDocumentMoniker": "FoodTOrderWPF\\SeondWindow.xaml",
+              "ToolTip": "C:\\Users\\Adithyan SP\\source\\repos\\FoodTOrderWPF\\FoodTOrderWPF\\SeondWindow.xaml",
+              "RelativeToolTip": "FoodTOrderWPF\\SeondWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-08T09:27:43.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Adithyan SP\\source\\repos\\FoodTOrderWPF\\FoodTOrderWPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "FoodTOrderWPF\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Adithyan SP\\source\\repos\\FoodTOrderWPF\\FoodTOrderWPF\\MainWindow.xaml",
+              "RelativeToolTip": "FoodTOrderWPF\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-08T09:22:26.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Adithyan SP\\source\\repos\\FoodTOrderWPF\\FoodTOrderWPF\\App.xaml.cs",
+              "RelativeDocumentMoniker": "FoodTOrderWPF\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Adithyan SP\\source\\repos\\FoodTOrderWPF\\FoodTOrderWPF\\App.xaml.cs",
+              "RelativeToolTip": "FoodTOrderWPF\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T06:10:52.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Adithyan SP\\source\\repos\\FoodTOrderWPF\\FoodTOrderWPF\\App.xaml",
+              "RelativeDocumentMoniker": "FoodTOrderWPF\\App.xaml",
+              "ToolTip": "C:\\Users\\Adithyan SP\\source\\repos\\FoodTOrderWPF\\FoodTOrderWPF\\App.xaml",
+              "RelativeToolTip": "FoodTOrderWPF\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-05T06:10:50.778Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
